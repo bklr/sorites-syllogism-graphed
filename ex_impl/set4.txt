@@ -1,0 +1,13 @@
+not ugly -> kept in a drawing-room
+encrusted with salt -> not dry
+kept in a drawing-room -> DRY
+bathing-machine -> kept near the sea
+made of mother-of-pearl -> not ugly
+kept near the sea -> encrusted with salt
+
+NOT kept in a drawing-room -> UGLY
+DRY -> NOT encrusted with salt
+not dry -> NOT kept in a drawing-room
+NOT kept near the sea -> NOT bathing-machine
+UGLY -> NOT made of mother-of-pearl
+NOT encrusted with salt -> NOT kept near the sea

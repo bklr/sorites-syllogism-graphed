@@ -1,0 +1,89 @@
+CSCI1101 Computer Science I -> CSCI1102 Computer Science II
+CSCI1102 Computer Science II -> CSCI1103 Data Structures
+CSCI1102 Computer Science II -> CSCI2271 Computer Systems
+
+CSCI1101 Computer Science I -> CSCI2243 Logic and Computation
+CSCI1102 Computer Science II -> CSCI2243 Logic and Computation
+
+CSCI1101 Computer Science I & CSCI2243 Logic and Computation & MATH1103 Calculus II (Mathematics/Science Majors)-> CSCI2244 Randomness and Computation
+CSCI1102 Computer Science II & CSCI2243 Logic and Computation & MATH1103 Calculus II (Mathematics/Science Majors) -> CSCI2244 Randomness and Computation
+CSCI1101 Computer Science I & MATH2216 Introduction to Abstract Mathematics & MATH1103 Calculus II (Mathematics/Science Majors) -> CSCI2244 Randomness and Computation
+CSCI1102 Computer Science II & MATH2216 Introduction to Abstract Mathematics & MATH1103 Calculus II (Mathematics/Science Majors) -> CSCI2244 Randomness and Computation
+
+No Prerequisite -> CSCI1101 Computer Science I
+No Prerequisite -> CSCI1090 Data Science Principles
+No Prerequisite -> CSCI2265 Tech Tools for Playful Learning
+No Prerequisite -> CSCI2267 Technology and Culture
+No Prerequisite -> CSCI2268 Data, Ethics and Society
+
+
+CSCI1101 Computer Science I -> CSCI2272 Computer Organization and Lab
+CSCI1101 Computer Science I -> CSCI2270 Introduction to Databases
+
+MATH1103 Calculus II (Mathematics/Science Majors) & ENGR2102 -> CSCI2275 Biomedical Imaging
+MATH1103 Calculus II (Mathematics/Science Majors) & PHYS2102 -> CSCI2275 Biomedical Imaging
+MATH1103 Calculus II (Mathematics/Science Majors) & PHYS2202 -> CSCI2275 Biomedical Imaging
+
+CSCI1090 Data Science Principles & MATH2250 Mathematical Foundations of Data Science -> CSCI2291 Data Science: Methods and Applications
+
+CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3100 Foundations of Blockchain
+CSCI2243 Logic and Computation & MATH4426 Probability -> CSCI3100 Foundations of Blockchain
+MATH2216 Introduction to Abstract Mathematics & CSCI2244 Randomness and Computation -> CSCI3100 Foundations of Blockchain
+MATH2216 Introduction to Abstract Mathematics & MATH4426 Probability -> CSCI3100 Foundations of Blockchain
+
+CSCI1102 Computer Science II & MATH2210 Linear Algebra & CSCI2244 Randomness and Computation -> CSCI3312 Recommender Systems
+CSCI1102 Computer Science II & MATH2210 Linear Algebra & MATH4426 Probability -> CSCI3312 Recommender Systems
+
+CSCI2244 Randomness and Computation & CSCI1102 Computer Science II -> CSCI3345 Machine Learning
+MATH4426 Probability & CSCI1102 Computer Science II -> CSCI3345 Machine Learning
+
+CSCI1102 Computer Science II & CSCI2272 Computer Organization and Lab -> CSCI3347 Robotics
+
+CSCI1102 Computer Science II & CSCI2244 Randomness and Computation -> CSCI3349 Natural Language Processing
+CSCI1102 Computer Science II & MATH4426 Probability -> CSCI3349 Natural Language Processing
+
+CSCI1102 Computer Science II & CSCI2271 Computer Systems -> CSCI3353 Object-Oriented Design
+CSCI2271 Computer Systems -> CSCI3356 Software Engineering
+
+CSCI1101 Computer Science I & CSCI2244 Randomness and Computation -> CSCI3358 Foundations of algorithmic (un)fairness
+CSCI1101 Computer Science I & MATH4426 Probability -> CSCI3358 Foundations of algorithmic (un)fairness
+
+CSCI2254 Web Application Development -> CSCI3360 Human-AI Interaction
+CSCI3356 Software Engineering -> CSCI3360 Human-AI Interaction
+
+
+CSCI2271 Computer Systems -> CSCI3362 Operating Systems
+
+CSCI2243 Logic and Computation -> CSCI3382 Formalizing Mathematics
+MATH2216 Introduction to Abstract Mathematics -> CSCI3382 Formalizing Mathematics
+
+CSCI2243 Logic and Computation & CSCI1102 Computer Science II & CSCI2244 Randomness and Computation -> CSCI3383 Algorithms
+MATH2216 Introduction to Abstract Mathematics & CSCI1102 Computer Science II & CSCI2244 Randomness and Computation -> CSCI3383 Algorithms
+CSCI2243 Logic and Computation & CSCI1102 Computer Science II & MATH4426 Probability -> CSCI3383 Algorithms
+MATH2216 Introduction to Abstract Mathematics & CSCI1102 Computer Science II & MATH4426 Probability -> CSCI3383 Algorithms
+
+CSCI1101 Computer Science I & CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3384 Computability and Computational Complexity
+CSCI1102 Computer Science II & CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3384 Computability and Computational Complexity
+CSCI1101 Computer Science I & MATH2216 Introduction to Abstract Mathematics & CSCI2244 Randomness and Computation -> CSCI3384 Computability and Computational Complexity
+CSCI1102 Computer Science II & MATH2216 Introduction to Abstract Mathematics & CSCI2244 Randomness and Computation -> CSCI3384 Computability and Computational Complexity
+CSCI1101 Computer Science I & CSCI2243 Logic and Computation & MATH4426 Probability -> CSCI3384 Computability and Computational Complexity
+CSCI1102 Computer Science II & CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3384 Computability and Computational Complexity
+CSCI1101 Computer Science I & MATH2216 Introduction to Abstract Mathematics & MATH4426 Probability -> CSCI3384 Computability and Computational Complexity
+CSCI1102 Computer Science II & MATH2216 Introduction to Abstract Mathematics & MATH4426 Probability -> CSCI3384 Computability and Computational Complexity
+
+MATH2202 Multivariable Calculus & MATH2210 Linear Algebra & CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3387 Topics in Computational intelligence: Machine Learning Projects
+MATH2202 Multivariable Calculus & MATH2210 Linear Algebra & MATH2216 Introduction to Abstract Mathematics & CSCI2244 Randomness and Computation -> CSCI3387 Topics in Computational intelligence: Machine Learning Projects
+MATH2202 Multivariable Calculus & MATH2210 Linear Algebra & CSCI2243 Logic and Computation & MATH4426 Probability -> CSCI3387 Topics in Computational intelligence: Machine Learning Projects
+MATH2202 Multivariable Calculus & MATH2210 Linear Algebra & MATH2216 Introduction to Abstract Mathematics & MATH4426 Probability -> CSCI3387 Topics in Computational intelligence: Machine Learning Projects
+
+CSCI1102 Computer Science II & MATH2210 Linear Algebra & MATH1102 Calculus I (Mathematics/Science Majors) -> CSCI3397 Topics in Computational Intelligence: Biomedical Image Analysis
+CSCI1102 Computer Science II & MATH2210 Linear Algebra & MATH1103 Calculus II (Mathematics/Science Majors) -> CSCI3397 Topics in Computational Intelligence: Biomedical Image Analysis
+
+
+No Prerequisite -> MATH1102 Calculus I (Mathematics/Science Majors)
+MATH1102 Calculus I (Mathematics/Science Majors) -> MATH1103 Calculus II (Mathematics/Science Majors)
+MATH1103 Calculus II (Mathematics/Science Majors) -> MATH2202 Multivariable Calculus
+No Prerequisite -> MATH2210 Linear Algebra
+No Prerequisite -> MATH2216 Introduction to Abstract Mathematics Introduction to Abstract Mathematics
+MATH1103 Calculus II (Mathematics/Science Majors) -> MATH2250 Mathematical Foundations of Data Science
+MATH2202 Multivariable Calculus -> MATH4426 Probability
