@@ -1,0 +1,26 @@
+# Sorites Problem 60 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic
+
+# Predicates
+in_house -> cat
+loves_moon -> suitable_pet
+detested -> avoided
+carnivorous -> prowl_night
+cat -> kill_mice
+take_to_me -> in_house
+kangaroo -> not suitable_pet
+kill_mice -> carnivorous
+not take_to_me -> detested
+prowl_night -> loves_moon
+
+# Contrapositive
+not cat -> not in_house
+not suitable_pet -> not loves_moon
+not avoided -> not detested
+not prowl_night -> not carnivorous
+not kill_mice -> not cat
+not in_house -> not take_to_me
+suitable_pet -> not kangaroo
+not carnivorous -> not kill_mice
+not detested -> take_to_me
+not loves_moon -> not prowl_night
+

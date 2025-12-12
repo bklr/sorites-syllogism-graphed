@@ -1,3 +1,5 @@
+# List of Boston College's Computer Science Courses and combination of prerequisites
+
 CSCI1101 Computer Science I -> CSCI1102 Computer Science II
 CSCI1102 Computer Science II -> CSCI1103 Data Structures
 CSCI1102 Computer Science II -> CSCI2271 Computer Systems

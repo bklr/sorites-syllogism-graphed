@@ -1,0 +1,32 @@
+# List of Boston College's Computer Science Courses with some ommissions
+
+CSCI1101 Computer Science I -> CSCI1102 Computer Science II
+CSCI1102 Computer Science II -> CSCI1103 Data Structures
+CSCI1102 Computer Science II -> CSCI2271 Computer Systems
+
+CSCI1101 Computer Science I -> CSCI2243 Logic and Computation
+CSCI1102 Computer Science II -> CSCI2243 Logic and Computation
+
+CSCI1101 Computer Science I & CSCI2243 Logic and Computation & MATH1103 Calculus II (Mathematics/Science Majors)-> CSCI2244 Randomness and Computation
+CSCI1102 Computer Science II & CSCI2243 Logic and Computation & MATH1103 Calculus II (Mathematics/Science Majors) -> CSCI2244 Randomness and Computation
+
+
+CSCI1101 Computer Science I -> CSCI2272 Computer Organization and Lab
+CSCI1101 Computer Science I -> CSCI2270 Introduction to Databases
+
+
+CSCI1090 Data Science Principles & MATH2250 Mathematical Foundations of Data Science -> CSCI2291 Data Science: Methods and Applications
+
+CSCI2243 Logic and Computation & CSCI2244 Randomness and Computation -> CSCI3100 Foundations of Blockchain
+
+
+CSCI2244 Randomness and Computation & CSCI1102 Computer Science II -> CSCI3345 Machine Learning
+
+CSCI1102 Computer Science II & CSCI2272 Computer Organization and Lab -> CSCI3347 Robotics
+
+CSCI1102 Computer Science II & CSCI2244 Randomness and Computation -> CSCI3349 Natural Language Processing
+
+CSCI1102 Computer Science II & CSCI2271 Computer Systems -> CSCI3353 Object-Oriented Design
+CSCI2271 Computer Systems -> CSCI3356 Software Engineering
+
+CSCI2271 Computer Systems -> CSCI3362 Operating Systems

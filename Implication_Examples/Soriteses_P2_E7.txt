@@ -1,0 +1,4 @@
+# Sorites Problem 2 of Example 7 in Book VII of Lewis Carroll's Symbolic Logic
+
+dictionaries -> useful_book
+useful_book -> valuable

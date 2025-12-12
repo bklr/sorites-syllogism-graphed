@@ -1,0 +1,9 @@
+# Mock Example Network Permissions Chain with Soriteses Structure
+
+# Predicates
+unelevated -> cannot_write_database
+cannot_write_database -> cannot_remote_in
+
+# Contrapositive
+can_remote_in -> can_write_database
+can_write_database -> elevated

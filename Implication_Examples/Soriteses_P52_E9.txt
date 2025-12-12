@@ -1,0 +1,17 @@
+# Sorites Problem 52 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic
+
+# Sorites
+not absolutely ugly -> kept in a drawing-room
+encrusted with salt -> not dry
+kept in a drawing-room -> dry
+bathing-machine -> kept near the sea
+made of mother-of-pearl -> not absolutely ugly
+kept near the sea -> encrusted with salt
+
+# Contrapositive
+not kept in a drawing-room -> absolutely ugly
+dry -> not encrusted with salt
+not dry -> not kept in a drawing-room
+not kept near the sea -> not bathing-machine
+absolutely ugly -> not made of mother-of-pearl
+not encrusted with salt -> not kept near the sea
