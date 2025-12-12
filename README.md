@@ -1,4 +1,4 @@
-# Sorites Implication Graph Visualizer
+# Visualizing Polysyllogisms using Directed Graphs
 
 This project converts a set of logical implication rules to visualize the structures of a *polysyllogisms* (such as a Lewis Carroll sorites) as directed graphs, and computes logical consequences from the implication network.
 
@@ -9,17 +9,19 @@ The tool enables:
 - Querying all consequences of any predicate
 - Computing the *longest implication chain* (the sorites conclusion)
 
-## Project Structure
-root/
-|- Implication_Examples/
-|- |- Soriteses_P60_E9.txt # Sorites Problem 60 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic
-|- |- Soriteses_P52_E9.txt # Sorites Problem 52 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic
-|- |- BC_CS_Courses_Simpl.txt # List of Boston College's Computer Science Courses with some ommissions
-|- |- Network_Permissions.txt # Mock Example Network Permissions Chain with Soriteses Structure
-|- |- other_examples and add your files here.txt
-|
-|- implgraph.py # Main Program
-
+## Project Structure 
+```
+root/  
+|- Implication_Examples/    
+|- |- Soriteses_P60_E9.txt # Sorites Problem 60 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic  
+|- |- Soriteses_P52_E9.txt # Sorites Problem 52 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic  
+|- |- BC_CS_Courses_Simpl.txt # List of Boston College's Computer Science Courses with some ommissions  
+|- |- Network_Permissions.txt # Mock Example Network Permissions Chain with Soriteses Structure    
+|- |- other_examples and add your files here.txt  
+|    
+|- implgraph.py # Main Program  
+```
+ 
 ## Input Format
 The program reads implications from a plain .txt file following rules:
 - Left side may contain one or multiple predicates joined by '&'
