@@ -1,6 +1,8 @@
 # Visualizing Polysyllogisms using Directed Graphs
 
 This project converts a set of logical implication rules to visualize the structures of a *polysyllogisms* (such as a Lewis Carroll sorites) as directed graphs, and computes logical consequences from the implication network.
+The project paper is located within ```visualizing_polysyllogisms.pdf```
+
 
 The tool enables:
 - Parsing rules of the form `A -> B` and `A1 & A2 -> B`
@@ -19,7 +21,8 @@ root/
 |- |- Network_Permissions.txt # Mock Example Network Permissions Chain with Soriteses Structure    
 |- |- other_examples and add your files here.txt  
 |    
-|- implgraph.py # Main Program  
+|- implgraph.py # Main Program
+|- visualizing_polysyllogisms.pdf # Project Paper
 ```
  
 ## Input Format
