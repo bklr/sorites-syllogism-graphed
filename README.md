@@ -9,7 +9,8 @@ The tool enables:
 - Querying all consequences of any predicate
 - Computing the *longest implication chain* (the sorites conclusion)
 
-## Project Structure  
+## Project Structure 
+```
 root/  
 |- Implication_Examples/    
 |- |- Soriteses_P60_E9.txt # Sorites Problem 60 of Example 9 in Book VII of Lewis Carroll's Symbolic Logic  
@@ -19,6 +20,7 @@ root/
 |- |- other_examples and add your files here.txt  
 |    
 |- implgraph.py # Main Program  
+```
  
 ## Input Format
 The program reads implications from a plain .txt file following rules:
